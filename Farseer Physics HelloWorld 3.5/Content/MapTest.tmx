@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="150" height="150" tilewidth="32" tileheight="32">
+ <properties>
+  <property name="mapmeta" value="mapvalue"/>
+ </properties>
+ <tileset firstgid="1" name="Untitled" tilewidth="32" tileheight="32">
+  <image source="tiles.png" width="288" height="32"/>
+ </tileset>
+ <layer name="adsg" width="150" height="150" opacity="0.72">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3WwQlCMRRFwbjSsizFUizFUixNXWSpgnIUfmbg8ho4hIwBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbMXuz2ObdEVBVxR0RUFXFHRFQVcUdEVBVxR0RUFXFHRFQVcUdEVBVxR0RUFXFHRF4RftHMY46Wotr3rYj3G87zrvh03Ne9HVOt509dh53i/eq6dNsk3+VxR0RUFXFHRFQVcUdEVBVxR0RUFXFHRFQVcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwKpuCL+x+5BfAQA=
+  </data>
+ </layer>
+ <layer name="Layer 1" width="150" height="150">
+  <properties>
+   <property name="layermeta" value="layervalue"/>
+  </properties>
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3SsQ2EQBAEQTxE/gljfQYvcVNqo/wd9T7XdT1JkiRJkiRJkiRJkiRJkiRJkiRJkiTJAe4c5et/+OdffX1DvBbSlnVSC2nLOqmFtGWd1ELask5qIW1ZJ7WQtqyTWkhb1kktpC3rpBbSlnVSC2nLOqmFtGWd1ELask5qIW1ZJ7WQtqyTWkhb1kktpC3rpBbSlnVSC2nLOqmFtGWd1ELask5qIW1ZJ7WQtqyTWkhb1kktpC3rpBbSlnVSC2nLOqmFtGWd1ELask5qIW1ZJ7WQtqyTWkhb1kktpC3rpBbSlnVSC2nLOqmFtGWd1ELask5qIW1ZJ7WQtqyTWkhb1kktpC3rpBbSlnVSC2nLOqmFtGWd1ELask5qIW1ZJ7WQtqyTWkhb1kktpC3rpBbSlnVSC2nLOqmFtGWd1ELask5qIW1ZJ7WQtqyTWkhb1kktpC3rpBbSlnVSC2nLOqmFtGWd1ELask5qIW1ZJ7WQtqyTWkhb1kktpC3rpBbSlnVSC2nLOqmFtGWd1ELask5qIW1ZJ7WQtqyTWkhb1kktpC3rpBbSlnVSC2nLOqmFtGWd1ELask5qIW1ZJ7WQtqyTWkhb1kktpC3rpBbSlnVSC2nLOqmFtGWd1ELask5qIW1ZJ7WQtqyTWkhb1kktpC3rpBbSlnVSC2nLOqmFtGWd1ELask5qIW1ZJ7WQtqyTWkhb1kktpC3rpBbSlnVSiztH+fofkiRJkiRJkiRJkiRJkiRJkiRJkiRJkp8XsJxtjJBfAQA=
+  </data>
+ </layer>
+ <objectgroup name="events" width="150" height="150" x="6" y="6" opacity="0.72">
+  <properties>
+   <property name="objectmeta" value="objectvalue"/>
+  </properties>
+  <object name="playership" x="2156" y="2050" width="32" height="32">
+   <properties>
+    <property name="name" value="playership"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="collision" width="150" height="150">
+  <object name="eastwall" x="3968" y="832" width="32" height="3136">
+   <properties>
+    <property name="name" value="eastwall"/>
+   </properties>
+  </object>
+  <object name="northwall" x="800" y="800" width="3200" height="32">
+   <properties>
+    <property name="name" value="North Wall"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

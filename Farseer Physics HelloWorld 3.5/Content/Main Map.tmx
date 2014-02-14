@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="100" tilewidth="32" tileheight="32" backgroundcolor="#000000">
+ <tileset firstgid="1" name="Stars &amp; Nebula" tilewidth="32" tileheight="32">
+  <image source="proc_sheet_nebula.jpg" width="2048" height="2048"/>
+  <terraintypes>
+   <terrain name="New Terrain" tile="-1"/>
+   <terrain name="Nebula 1" tile="329"/>
+  </terraintypes>
+  <tile id="195" terrain="0,0,0,0"/>
+  <tile id="196" terrain="0,0,0,0"/>
+  <tile id="197" terrain="0,0,0,0"/>
+  <tile id="198" terrain="0,0,0,0"/>
+  <tile id="199" terrain="0,0,0,0"/>
+  <tile id="200" terrain="0,0,0,0"/>
+  <tile id="201" terrain="0,0,0,0"/>
+  <tile id="202" terrain="0,0,0,0"/>
+  <tile id="203" terrain="0,0,0,0"/>
+  <tile id="259" terrain="0,0,0,0"/>
+  <tile id="260" terrain="0,0,0,0"/>
+  <tile id="261" terrain="0,0,0,0"/>
+  <tile id="262" terrain="0,0,0,0"/>
+  <tile id="263" terrain="0,0,0,0"/>
+  <tile id="264" terrain="0,0,0,0"/>
+  <tile id="265" terrain="0,0,0,0"/>
+  <tile id="266" terrain="0,0,0,0"/>
+  <tile id="267" terrain="0,0,0,0"/>
+  <tile id="323" terrain="0,0,0,0"/>
+  <tile id="324" terrain="0,0,0,0"/>
+  <tile id="325" terrain="0,0,0,0"/>
+  <tile id="326" terrain="0,0,0,0"/>
+  <tile id="327" terrain="0,0,0,0"/>
+  <tile id="328" terrain="0,0,0,0"/>
+  <tile id="329" terrain="0,0,0,0"/>
+  <tile id="330" terrain="0,0,0,0"/>
+  <tile id="331" terrain="0,0,0,0"/>
+  <tile id="332" terrain="0,0,0,0"/>
+  <tile id="333" terrain="0,0,0,0"/>
+  <tile id="387" terrain="0,0,0,0"/>
+  <tile id="388" terrain="0,0,0,0"/>
+  <tile id="389" terrain="0,0,0,0"/>
+  <tile id="390" terrain="0,0,0,0"/>
+  <tile id="391" terrain="0,0,0,0"/>
+  <tile id="392" terrain="0,0,0,0"/>
+  <tile id="393" terrain="0,0,0,0"/>
+  <tile id="394" terrain="0,0,0,0"/>
+  <tile id="395" terrain="0,0,0,0"/>
+  <tile id="396" terrain="0,0,0,0"/>
+  <tile id="397" terrain="0,0,0,0"/>
+  <tile id="450" terrain="0,0,0,0"/>
+  <tile id="451" terrain="0,0,0,0"/>
+  <tile id="452" terrain="0,0,0,0"/>
+  <tile id="453" terrain="0,0,0,0"/>
+  <tile id="454" terrain="0,0,0,0"/>
+  <tile id="455" terrain="0,0,0,0"/>
+  <tile id="456" terrain="0,0,0,0"/>
+  <tile id="457" terrain="0,0,0,0"/>
+  <tile id="458" terrain="0,0,0,0"/>
+  <tile id="459" terrain="0,0,0,0"/>
+  <tile id="460" terrain="0,0,0,0"/>
+  <tile id="461" terrain="0,0,0,0"/>
+  <tile id="514" terrain="0,0,0,0"/>
+  <tile id="515" terrain="0,0,0,0"/>
+  <tile id="516" terrain="0,0,0,0"/>
+  <tile id="517" terrain="0,0,0,0"/>
+  <tile id="518" terrain="0,0,0,0"/>
+  <tile id="519" terrain="0,0,0,0"/>
+  <tile id="520" terrain="0,0,0,0"/>
+  <tile id="521" terrain="0,0,0,0"/>
+  <tile id="522" terrain="0,0,0,0"/>
+  <tile id="523" terrain="0,0,0,0"/>
+  <tile id="524" terrain="0,0,0,0"/>
+  <tile id="525" terrain="0,0,0,0"/>
+  <tile id="578" terrain="0,0,0,0"/>
+  <tile id="579" terrain="0,0,0,0"/>
+  <tile id="580" terrain="0,0,0,0"/>
+  <tile id="581" terrain="0,0,0,0"/>
+  <tile id="582" terrain="0,0,0,0"/>
+  <tile id="583" terrain="0,0,0,0"/>
+  <tile id="584" terrain="0,0,0,0"/>
+  <tile id="585" terrain="0,0,0,0"/>
+  <tile id="586" terrain="0,0,0,0"/>
+  <tile id="587" terrain="0,0,0,0"/>
+  <tile id="588" terrain="0,0,0,0"/>
+  <tile id="589" terrain="0,0,0,0"/>
+  <tile id="642" terrain="0,0,0,0"/>
+  <tile id="643" terrain="0,0,0,0"/>
+  <tile id="644" terrain="0,0,0,0"/>
+  <tile id="645" terrain="0,0,0,0"/>
+  <tile id="646" terrain="0,0,0,0"/>
+  <tile id="647" terrain="0,0,0,0"/>
+  <tile id="648" terrain="0,0,0,0"/>
+  <tile id="649" terrain="0,0,0,0"/>
+  <tile id="650" terrain="0,0,0,0"/>
+  <tile id="651" terrain="0,0,0,0"/>
+  <tile id="652" terrain="0,0,0,0"/>
+  <tile id="653" terrain="0,0,0,0"/>
+  <tile id="707" terrain="0,0,0,0"/>
+  <tile id="708" terrain="0,0,0,0"/>
+  <tile id="709" terrain="0,0,0,0"/>
+  <tile id="710" terrain="0,0,0,0"/>
+  <tile id="711" terrain="0,0,0,0"/>
+  <tile id="712" terrain="0,0,0,"/>
+  <tile id="713" terrain="0,0,,"/>
+  <tile id="714" terrain="0,0,,"/>
+  <tile id="715" terrain="0,0,,"/>
+  <tile id="716" terrain="0,0,,"/>
+  <tile id="717" terrain="0,0,,"/>
+  <tile id="771" terrain="0,0,0,0"/>
+  <tile id="772" terrain="0,0,0,0"/>
+  <tile id="773" terrain="0,0,0,0"/>
+  <tile id="774" terrain="0,0,0,0"/>
+  <tile id="775" terrain="0,0,0,0"/>
+  <tile id="776" terrain="0,,0,"/>
+ </tileset>
+ <tileset firstgid="4097" name="Hyptosis Batch 1" tilewidth="32" tileheight="32">
+  <image source="hyptosis_tile-art-batch-1.png" width="960" height="960"/>
+  <terraintypes>
+   <terrain name="Girders" tile="-1"/>
+   <terrain name="Girder 1" tile="152"/>
+   <terrain name="Girder 2" tile="154"/>
+   <terrain name="Girder 3" tile="184"/>
+   <terrain name="Girder 4" tile="155"/>
+   <terrain name="Girder 5" tile="185"/>
+   <terrain name="Girder 6" tile="156"/>
+   <terrain name="Girder 7" tile="186"/>
+   <terrain name="Girder 8" tile="157"/>
+   <terrain name="Girder 9" tile="187"/>
+   <terrain name="Darkstone 1" tile="281"/>
+   <terrain name="Darkstone2" tile="311"/>
+   <terrain name="Darkstone 3" tile="341"/>
+   <terrain name="Darkstone 4" tile="310"/>
+   <terrain name="Wood Whole 1" tile="695"/>
+   <terrain name="Wood Whole 2" tile="725"/>
+   <terrain name="Wood Whole 3" tile="755"/>
+   <terrain name="Wood Whole 4" tile="756"/>
+   <terrain name="Wood Whole 5" tile="757"/>
+   <terrain name="Wood Whole 6" tile="727"/>
+   <terrain name="Wood Whole 7" tile="697"/>
+   <terrain name="Wood Whole 8" tile="696"/>
+   <terrain name="Space Wall 1" tile="148"/>
+   <terrain name="Space Wall 2" tile="149"/>
+   <terrain name="Space Wall 3" tile="179"/>
+   <terrain name="Space Wall 4" tile="209"/>
+   <terrain name="Space Wall 5" tile="208"/>
+  </terraintypes>
+  <tile id="149" terrain="22,22,22,22"/>
+  <tile id="152" terrain="0,0,0,0"/>
+  <tile id="154" terrain="0,0,0,0"/>
+  <tile id="155" terrain="3,3,3,3"/>
+  <tile id="156" terrain="5,5,5,5"/>
+  <tile id="157" terrain="7,7,7,7"/>
+  <tile id="179" terrain="23,23,23,23"/>
+  <tile id="184" terrain="2,2,2,2"/>
+  <tile id="185" terrain="4,4,4,4"/>
+  <tile id="186" terrain="6,6,6,6"/>
+  <tile id="187" terrain="8,8,8,8"/>
+  <tile id="208" terrain="25,25,25,25"/>
+  <tile id="209" terrain="24,24,24,24"/>
+  <tile id="281" terrain="9,9,9,9"/>
+  <tile id="310" terrain="12,12,12,12"/>
+  <tile id="311" terrain="10,10,10,10"/>
+  <tile id="341" terrain="11,11,11,11"/>
+  <tile id="695" terrain="13,13,13,13"/>
+  <tile id="696" terrain="20,20,20,20"/>
+  <tile id="697" terrain="19,19,19,19"/>
+  <tile id="725" terrain="14,14,14,14"/>
+  <tile id="727" terrain="18,18,18,18"/>
+  <tile id="755" terrain="15,15,15,15"/>
+  <tile id="756" terrain="16,16,16,16"/>
+  <tile id="757" terrain="17,17,17,17"/>
+ </tileset>
+ <tileset firstgid="4997" name="Hyptosis Batch 2" tilewidth="32" tileheight="32">
+  <image source="hyptosis_til-art-batch-2.png" width="960" height="960"/>
+ </tileset>
+ <tileset firstgid="5897" name="Hyptosis Batch 3" tilewidth="32" tileheight="32">
+  <image source="hyptosis_tile-art-batch-3.png" width="960" height="960"/>
+ </tileset>
+ <tileset firstgid="6797" name="Hyptosis Batch 4" tilewidth="32" tileheight="32">
+  <image source="hyptosis_tile-art-batch-4.png" width="960" height="960"/>
+ </tileset>
+ <tileset firstgid="7697" name="Flags" tilewidth="32" tileheight="32">
+  <image source="flags.png" width="64" height="48"/>
+ </tileset>
+ <layer name="Background" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T+1lC6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAbnEAAAQ==
+  </data>
+ </layer>
+ <layer name="Nebulae" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt1beNK0EUBdEBl5ozszlR66CodVDUOqZf9vcbXBBVwPEb9xkdRWZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZm9n/VOIpqqKOBJlpoo4MueuhjgGH86Rd/dyP2HWOCKWaYY4ElVlhjgy123iNoe/Y94IgTzrjgihvueOCJF97eI2iZJIp+kEUOeRRQRAllVBAjQZp8+sXfXZV9a6ijgSZaaKODLnroY4Ch9wjaiH3HmGCKGeZYYIkV1thgi533CNqefQ844oQzLrjihjseeOKFt/cIWibl/0AWOeRRQBEllFFBjARp+ukXf3dV9q2hjgaaaKGNDrrooY8Bht4jaCP2HWOCKWaYY4ElVlhjgy123iNoe/Y94IgTzrjgihvueOCJF97eI2iZX/4PZJFDHgUUUUIZFcRIkP5++sXfXZV9a6ijgSZaaKODLnroY4Ch9wjaiH3HmGCKGeZYYIkV1thgi533MDMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzM/vz/QNi5lOK
+  </data>
+ </layer>
+ <layer name="Collision" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt17EJgEAMQNErHEB0d+dxmptD2yvUgEKCvAcpUlxzv0prAAAAAAAAAAAAAAAAAAAAAAD81TbHh2fnP+3RuXhPAj1q0aMWPWrRI1dfxl2PXNM67nrUokctetRy18N9/p239zkAAAAAAAAAAAAAAAAAAAAAQMQBYrtAhA==
+  </data>
+ </layer>
+ <objectgroup name="Flags" width="100" height="100">
+  <object name="BlueFlag" type="Flag" gid="4837" x="331" y="1602" width="1024" height="1024"/>
+ </objectgroup>
+</map>
